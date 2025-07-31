@@ -35,7 +35,7 @@
 *.exp
 *.cso
 *.recipe
-.vs/"Bin/\n*.pdb\n*.exe\n*.dll\n*.lib\n*.cso" 
+
 /EngineSDK/Lib/Release/*.lib
 /EngineSDK/Lib/Debug/*.lib
 *.vs
