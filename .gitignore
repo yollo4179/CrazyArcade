@@ -1,0 +1,41 @@
+
+#Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+#Precompiled Headers
+*.gch
+*.pch
+
+#Compiled Dynamic libraries
+*.so
+*.dylib
+
+#Fortran module files
+*.mod
+*.smod
+
+#Compiled Static libraries
+*.lai
+*.la
+*.a
+
+#Executables
+*.exe
+*.out
+*.app
+
+*.pdb
+*.log
+*.idb
+*.tlog
+*.ilk
+*.exp
+*.cso
+*.recipe
+.vs/"Bin/\n*.pdb\n*.exe\n*.dll\n*.lib\n*.cso" 
+\EngineSDK\Lib\Release\*.lib
+\EngineSDK\Lib\Debug\*.lib
+*.vs
