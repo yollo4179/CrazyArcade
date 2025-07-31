@@ -36,6 +36,12 @@
 *.cso
 *.recipe
 .vs/"Bin/\n*.pdb\n*.exe\n*.dll\n*.lib\n*.cso" 
-\EngineSDK\Lib\Release\*.lib
-\EngineSDK\Lib\Debug\*.lib
+/EngineSDK/Lib/Release/*.lib
+/EngineSDK/Lib/Debug/*.lib
 *.vs
+
+
+/Bin/
+/x64/
+/Debug/
+/Release/
