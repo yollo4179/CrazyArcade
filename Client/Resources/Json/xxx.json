@@ -1,0 +1,302 @@
+{
+    "ATLASINFO": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "BUFFER_LEVEL": 0,
+    "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+    "CHILDREN": [
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 3,
+            "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BUTTON",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -299.45281982421875,
+                    247.26058959960938,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.1420000046491623,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.27799999713897705,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_BG"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 3,
+            "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BG",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -164.59242248535156,
+                    247.26058959960938,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.1420000046491623,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.27799999713897705,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_SELECT"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 3,
+            "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BG",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -29.732025146484375,
+                    247.26058959960938,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.1420000046491623,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.27799999713897705,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_FRAME"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 3,
+            "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BG",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -299.45281982421875,
+                    14.553787231445313,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.1420000046491623,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.27799999713897705,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_FRAME"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 3,
+            "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BG",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -164.59242248535156,
+                    14.553787231445313,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.1420000046491623,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.27799999713897705,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_FRAME"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 3,
+            "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BG",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -29.732025146484375,
+                    14.553787231445313,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.1420000046491623,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.27799999713897705,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_FRAME"
+        }
+    ],
+    "OBJECT_LEVEL": 3,
+    "OBJECT_TAG": "PROTO.OBJECT.LOGIN.BG",
+    "SHADER_LEVEL": 0,
+    "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+    "SRT_MATRIX": {
+        "LOOK": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "POSITION": [
+            441.0,
+            104.0,
+            1.0,
+            1.0
+        ],
+        "RIGHT": [
+            771.2069702148438,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "UP": [
+            0.0,
+            760.948974609375,
+            0.0,
+            0.0
+        ]
+    },
+    "TEXTURE_LEVEL": 3,
+    "TEXTURE_TAG": "PROTO.TEXTURE.UI_LOGIN"
+}

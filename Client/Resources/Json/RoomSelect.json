@@ -1,0 +1,216 @@
+{
+    "ATLASINFO": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "BUFFER_LEVEL": 0,
+    "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+    "CHILDREN": [
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.SELECT_BUTTON",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -262.32623291015625,
+                    2.424774169921875,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.21299999952316284,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.2029999941587448,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_SELECT"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.SELECT_BUTTON",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -90.45480346679688,
+                    2.424774169921875,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.21299999952316284,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.2029999941587448,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_SELECT"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.SELECT_BUTTON",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -263.32623291015625,
+                    -94.2667007446289,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.21299999952316284,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.2029999941587448,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_SELECT"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.SELECT_BUTTON",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -90.45480346679688,
+                    -95.2667007446289,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.21299999952316284,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.2029999941587448,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 5,
+            "TEXTURE_TAG": "PROTO.TEXTURE.PLAYER_SELECT"
+        }
+    ],
+    "OBJECT_LEVEL": 5,
+    "OBJECT_TAG": "PROTO.OBJECT.ROOM.SELECT_PANNEL",
+    "SHADER_LEVEL": 0,
+    "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+    "SRT_MATRIX": {
+        "LOOK": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "POSITION": [
+            556.0,
+            283.0,
+            1.0,
+            1.0
+        ],
+        "RIGHT": [
+            716.4810180664063,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "UP": [
+            0.0,
+            469.8890075683594,
+            0.0,
+            0.0
+        ]
+    },
+    "TEXTURE_LEVEL": 2,
+    "TEXTURE_TAG": "None"
+}

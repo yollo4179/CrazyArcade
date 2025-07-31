@@ -1,0 +1,217 @@
+{
+    "ATLASINFO": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "BUFFER_LEVEL": 0,
+    "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+    "CHILDREN": [
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.CHAT_INPUTBOX",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    155.0,
+                    -120.0,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.5270000100135803,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.12800000607967377,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 2,
+            "TEXTURE_TAG": "None"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.CHAT_CHATTINGBOX",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    -34.0,
+                    10.0,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.9359999895095825,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.6539999842643738,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 2,
+            "TEXTURE_TAG": "None"
+        },
+        {
+            "ATLASINFO": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "BUFFER_LEVEL": 0,
+            "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+            "CHILDREN": [
+                {
+                    "ATLASINFO": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "BUFFER_LEVEL": 0,
+                    "BUFFER_TAG": "PROTO.BUFFER.RECTPOINT",
+                    "CHILDREN": [],
+                    "OBJECT_LEVEL": 5,
+                    "OBJECT_TAG": "PROTO.OBJECT.ROOM.CHAT_SCROLL",
+                    "SHADER_LEVEL": 0,
+                    "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+                    "SRT_MATRIX": {
+                        "LOOK": [
+                            0.0,
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "POSITION": [
+                            0.0,
+                            62.65999984741211,
+                            0.0,
+                            1.0
+                        ],
+                        "RIGHT": [
+                            0.9819999933242798,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "UP": [
+                            0.0,
+                            0.22699999809265137,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "TEXTURE_LEVEL": 5,
+                    "TEXTURE_TAG": "PROTO.TEXTURE.CHAT_SCROLL"
+                }
+            ],
+            "OBJECT_LEVEL": 5,
+            "OBJECT_TAG": "PROTO.OBJECT.ROOM.CHAT_SCROLL_Range",
+            "SHADER_LEVEL": 0,
+            "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+            "SRT_MATRIX": {
+                "LOOK": [
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "POSITION": [
+                    485.0,
+                    15.0,
+                    0.0,
+                    1.0
+                ],
+                "RIGHT": [
+                    0.06400000303983688,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "UP": [
+                    0.0,
+                    0.4180000126361847,
+                    0.0,
+                    0.0
+                ]
+            },
+            "TEXTURE_LEVEL": 0,
+            "TEXTURE_TAG": "None"
+        }
+    ],
+    "OBJECT_LEVEL": 5,
+    "OBJECT_TAG": "PROTO.OBJECT.ROOM.CHAT_BG",
+    "SHADER_LEVEL": 0,
+    "SHADER_TAG": "PROTO.SHADER.RECTPOINT",
+    "SRT_MATRIX": {
+        "LOOK": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "POSITION": [
+            -397.0,
+            -347.0,
+            1.0,
+            1.0
+        ],
+        "RIGHT": [
+            1036.56201171875,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "UP": [
+            0.0,
+            299.8070068359375,
+            0.0,
+            0.0
+        ]
+    },
+    "TEXTURE_LEVEL": 2,
+    "TEXTURE_TAG": "PROTO.TEXTURE.CHAT_BG"
+}

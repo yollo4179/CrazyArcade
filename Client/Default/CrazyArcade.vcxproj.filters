@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Objects">
+      <UniqueIdentifier>{3c0af514-dcfd-4dec-bcce-2984c3c580e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00.SessionManager">
+      <UniqueIdentifier>{592babbc-dad5-4b9d-8fc5-4b56623302fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00.Sockets">
+      <UniqueIdentifier>{25488fa1-c80a-4d67-9223-ac85983b637c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01..MainApp">
+      <UniqueIdentifier>{395cafd6-93f3-4fcb-a28d-8d86172b5dde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels">
+      <UniqueIdentifier>{712c104c-4591-4ce7-ab8e-f750d885213b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\00.LevelLoading">
+      <UniqueIdentifier>{292d12c1-b1a1-4160-aeef-0b0081ba5390}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login">
+      <UniqueIdentifier>{b463a976-b8b9-4027-8e48-3aeba94b3157}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login\Objects">
+      <UniqueIdentifier>{6072d70d-e91f-49d9-acb0-f7b9d7a1ff05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login\Objects\00.LoginBg">
+      <UniqueIdentifier>{067acf59-617a-4ec6-af14-589949887747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login\Objects\01.LoginPannel">
+      <UniqueIdentifier>{d3704d89-2ed8-4b76-89eb-1d7fb2da692b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login\Objects\02.Login_IDBox">
+      <UniqueIdentifier>{c92f99a8-af25-4e5d-a192-f81243b667c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login\Objects\03.Login_PasswordBox">
+      <UniqueIdentifier>{400b1d53-2d44-4fce-b01c-69fed66a7c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\01.Level_Login\Objects\04.Login_Button">
+      <UniqueIdentifier>{5aa63c67-aa8c-4e5e-8e51-44117a6eee87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\02.Level_Loby">
+      <UniqueIdentifier>{cacd3e03-7eef-43a0-8b48-f76619ab756c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom">
+      <UniqueIdentifier>{6c9b628f-d25c-459f-8b82-be9fe3d6dba5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects">
+      <UniqueIdentifier>{1e7739f7-3318-4243-838c-ad147d4d4130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Chatting">
+      <UniqueIdentifier>{80e1d505-1e70-4a01-bf17-315aa13acf64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ChattingBox">
+      <UniqueIdentifier>{3146667d-a4f4-4f7d-b40b-d55b7aa0fe37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\InputBox">
+      <UniqueIdentifier>{a8a4671d-f31c-4e65-9c02-1b7834bcc4f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ScrollRange">
+      <UniqueIdentifier>{b6ddeebf-bcdb-481e-9764-4c1d7c2e616c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\Scroll">
+      <UniqueIdentifier>{c1308458-54be-46bd-9fd8-c9ea9273fa0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ChattingBG">
+      <UniqueIdentifier>{1ecf0d51-4790-4b4b-8a03-33e4930787c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Character">
+      <UniqueIdentifier>{3ae9cc01-06ca-4710-83a1-74f16167a10f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerBG">
+      <UniqueIdentifier>{f26f3b72-ea17-4447-a019-ccf69bb241e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerFrame">
+      <UniqueIdentifier>{edeaa01a-be71-47e8-ae8c-18f5f9939b86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Select">
+      <UniqueIdentifier>{f6eefae2-180b-4603-a84f-e2f1dd640e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Select\SelectPannel">
+      <UniqueIdentifier>{494e92f5-4bb8-4cff-ac17-aa9768ce3015}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Select\SelectButton">
+      <UniqueIdentifier>{a3623f1c-646a-4093-9a38-a9bea13006af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\BackGround">
+      <UniqueIdentifier>{6f7c81c7-469d-42f4-af96-32da923165a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\Level_GamePlay">
+      <UniqueIdentifier>{15928e74-442f-4d03-9814-1029f26f91ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\LevelMapTool">
+      <UniqueIdentifier>{1889f5e9-228e-4e06-914a-ca284ae8ae9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\LevelMapTool\ToolObject">
+      <UniqueIdentifier>{7ed5ee2e-56f5-42e4-bba9-bcc58360a1ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\00.Loader">
+      <UniqueIdentifier>{af7ff00d-a002-49f0-a94c-f91f01a3e496}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\00.Loader\LevelHeaders">
+      <UniqueIdentifier>{befc0846-e357-495a-8a54-cf38c68604d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.HLSL">
+      <UniqueIdentifier>{ce426833-a95a-4ed4-aa2b-7fca11eb2dbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00.Sockets\ChattingSocketManager">
+      <UniqueIdentifier>{eafb7882-d19a-4e0c-9f75-5fa2aef2681a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\헤더 파일\Client_Defines">
+      <UniqueIdentifier>{859373f0-3c70-499b-bf91-37df4664fb7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\헤더 파일\Client_Defines\ObjectBuilder">
+      <UniqueIdentifier>{17803300-4385-44b6-a1ba-487e365f4039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerInFrame">
+      <UniqueIdentifier>{578b8fd3-74cc-4a9e-b87e-fd20d28ca41a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\헤더 파일\Client_Defines\ChatProtocols">
+      <UniqueIdentifier>{cc2b7f67-ec05-4793-85d2-fdbdc03231fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerName">
+      <UniqueIdentifier>{b380e9fd-d4a9-4b2b-8b49-f12e3d2ee962}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>소스 파일\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>소스 파일\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>소스 파일\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CrazyArcade.h">
+      <Filter>소스 파일\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>소스 파일\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>소스 파일\01..MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs.h">
+      <Filter>소스 파일\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Client_Defines.h">
+      <Filter>소스 파일\헤더 파일\Client_Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TestGameObject.h">
+      <Filter>소스 파일\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Loader.h">
+      <Filter>소스 파일\02.Levels\00.Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLoading.h">
+      <Filter>소스 파일\02.Levels\00.LevelLoading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLogin.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLoby.h">
+      <Filter>소스 파일\02.Levels\02.Level_Loby</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelRoom.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SessionManager.h">
+      <Filter>소스 파일\00.SessionManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelGameplay.h">
+      <Filter>소스 파일\02.Levels\Level_GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Prototype_Static.h">
+      <Filter>소스 파일\01..MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Levels.h">
+      <Filter>소스 파일\02.Levels\00.LevelLoading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelLoginHeaders.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolObject.h">
+      <Filter>소스 파일\02.Levels\LevelMapTool\ToolObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelMaptoolHeaders.h">
+      <Filter>소스 파일\02.Levels\00.Loader\LevelHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelMapTool.h">
+      <Filter>소스 파일\02.Levels\LevelMapTool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LoginPannel.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\01.LoginPannel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LoginButton.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\04.Login_Button</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LoginIDBox.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\02.Login_IDBox</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LoginPasswordBox.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\03.Login_PasswordBox</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LoginBG.h">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\00.LoginBg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ObjectBuilder.h">
+      <Filter>소스 파일\헤더 파일\Client_Defines\ObjectBuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ChattingBG.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ChattingBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ChattingBox.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ChattingBox</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ScrollRange.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ScrollRange</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Scroll.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\Scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\InputBox.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\InputBox</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PlayerBG.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerBG</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PlayerFrame.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SelectPannel.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Select\SelectPannel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SelectButton.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Select\SelectButton</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RoomBG.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelRoomHeaders.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ChattingSocketManager.h">
+      <Filter>소스 파일\00.Sockets\ChattingSocketManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PlayerInFrame.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerInFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ChatProtocols.h">
+      <Filter>소스 파일\헤더 파일\Client_Defines\ChatProtocols</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PlayerNameInFrame.h">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerName</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CrazyArcade.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>소스 파일\01..MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TestGameObject.cpp">
+      <Filter>소스 파일\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Loader.cpp">
+      <Filter>소스 파일\02.Levels\00.Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelLoading.cpp">
+      <Filter>소스 파일\02.Levels\00.LevelLoading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelMapTool.cpp">
+      <Filter>소스 파일\02.Levels\LevelMapTool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelLogin.cpp">
+      <Filter>소스 파일\02.Levels\01.Level_Login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelLoby.cpp">
+      <Filter>소스 파일\02.Levels\02.Level_Loby</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SessionManager.cpp">
+      <Filter>소스 파일\00.SessionManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelRoom.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelGameplay.cpp">
+      <Filter>소스 파일\02.Levels\Level_GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolObject.cpp">
+      <Filter>소스 파일\02.Levels\LevelMapTool\ToolObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LoginPannel.cpp">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\01.LoginPannel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LoginBG.cpp">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\00.LoginBg</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LoginButton.cpp">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\04.Login_Button</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LoginIDBox.cpp">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\02.Login_IDBox</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LoginPasswordBox.cpp">
+      <Filter>소스 파일\02.Levels\01.Level_Login\Objects\03.Login_PasswordBox</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ChattingBG.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ChattingBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ChattingBox.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ChattingBox</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\InputBox.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\InputBox</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Scroll.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\Scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ScrollRange.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Chatting\ScrollRange</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PlayerBG.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerBG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PlayerFrame.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SelectButton.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Select\SelectButton</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SelectPannel.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Select\SelectPannel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RoomBG.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ObjectBuilder.cpp">
+      <Filter>소스 파일\헤더 파일\Client_Defines\ObjectBuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ChattingSocketManager.cpp">
+      <Filter>소스 파일\00.Sockets\ChattingSocketManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PlayerInFrame.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerInFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PlayerNameInFrame.cpp">
+      <Filter>소스 파일\02.Levels\03.LevelRoom\Objects\Character\PlayerName</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CrazyArcade.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="CrazyArcade.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Resources\HLSL\PointInstanceRect.hlsl">
+      <Filter>소스 파일\03.HLSL</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Resources\HLSL\Rect.hlsl">
+      <Filter>소스 파일\03.HLSL</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

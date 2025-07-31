@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Utility">
+      <UniqueIdentifier>{f417a54a-a596-49fb-9ede-976992c32d21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System">
+      <UniqueIdentifier>{d1959671-9b0c-4567-8b99-3e777b7bc351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System\TimeManager">
+      <UniqueIdentifier>{aafeae4e-214c-465a-8d82-65ba64fa6818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System\GraphicDevice">
+      <UniqueIdentifier>{31e04923-c33a-4cc0-a7fb-f68f8e453501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System\TimeManager\Timer">
+      <UniqueIdentifier>{066814cd-087d-487d-8643-502f09a7b0b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\00.GameInstance">
+      <UniqueIdentifier>{83f0d434-80b2-401b-bfeb-bfdfa9fb9bd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\00.Managers">
+      <UniqueIdentifier>{2476c70f-edcf-4524-baba-ee636a6f341f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\00.Managers\02.Prototypes">
+      <UniqueIdentifier>{8c7d553e-167e-49af-aa56-7ea29f985988}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\00.Managers\03.LevelManager">
+      <UniqueIdentifier>{f37b4db5-d01b-4ab3-ab6d-a610cdce8306}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\01.Layer">
+      <UniqueIdentifier>{3f5fed07-e73f-4384-8634-a9b8faf62525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\01.Level">
+      <UniqueIdentifier>{1cdf4024-0f31-4fcf-8dfd-99fded602391}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\01.ObjectManager">
+      <UniqueIdentifier>{c553337c-541b-40ba-90c3-092452bb3ae7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\03.Objects">
+      <UniqueIdentifier>{380c9c74-2c4d-42b3-a589-76ddf85e50d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components">
+      <UniqueIdentifier>{e6e716c3-e051-4d30-9e52-547c053a8b06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\05.Renderer">
+      <UniqueIdentifier>{e283a3d4-4b1d-4fe9-a4eb-bd5a2c806c23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\08.Fonts">
+      <UniqueIdentifier>{ad2995f0-cfca-4b78-b74d-47d86752bfe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\09.RenderTargets">
+      <UniqueIdentifier>{8478537e-7a4e-49fa-8a38-acd697f3c3b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\Super">
+      <UniqueIdentifier>{ebf2111a-7e37-47f0-b7d9-c9e3e278184b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\03.Button">
+      <UniqueIdentifier>{469616f3-3949-4c7e-8097-78c93facb400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System\KeyManager">
+      <UniqueIdentifier>{7bae8962-bdfb-4185-8331-02e925a92f9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\01.VIBuffer">
+      <UniqueIdentifier>{78e48aeb-0d39-4dda-b5b4-3af1cefcdef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect">
+      <UniqueIdentifier>{0e65eb0c-d325-4a8e-86b3-e780aacb57ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexRect">
+      <UniqueIdentifier>{7b3753bd-847c-48c8-bc2d-5cb65548a730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexPointRect">
+      <UniqueIdentifier>{188e70eb-41ec-4933-813d-66e9791987c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\04.Shader">
+      <UniqueIdentifier>{c9e20e06-c23c-46a2-99fd-27fe7aca903f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\05.Texture">
+      <UniqueIdentifier>{52e8a2d4-0055-47a2-a0b9-62bce710849e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\06.Transform">
+      <UniqueIdentifier>{31a90cc0-eb27-423e-870c-75d9cb79a054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\10.HLSL">
+      <UniqueIdentifier>{8626b1af-2cd8-421a-b599-b6eef1141758}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\10.PipeLine">
+      <UniqueIdentifier>{3f76a941-e576-4911-b5fa-2f1b8de5f4fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System\ImguiManager">
+      <UniqueIdentifier>{84e25cd4-fd26-400a-ad10-7b5bf44ebadf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\System\ImguiManager\ImguiHeaders">
+      <UniqueIdentifier>{6f47d0c0-d388-46d5-a518-a1f36ba09688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexLine">
+      <UniqueIdentifier>{9cbebf20-92ab-44bf-92b2-d46a455cfd41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\03.Objects\WidgetObject">
+      <UniqueIdentifier>{ed76fef6-e0f5-455b-b089-a65c464aaef5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\03.Objects\UIManager">
+      <UniqueIdentifier>{34829d3d-4c47-403b-b96a-a317f8bd3b6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\RearrangeUISystem">
+      <UniqueIdentifier>{2bb2eed5-137e-47fe-98f5-1b67f425cb8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\AbstractFactory">
+      <UniqueIdentifier>{bc35cf98-c4bb-4db1-95d9-dde1e8fe27dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utility\08.Fonts\FontManager">
+      <UniqueIdentifier>{fa8d8a8e-aecb-4338-b630-2ecbfb07fe7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\TextSystem">
+      <UniqueIdentifier>{7c738d7a-b749-44c7-b5de-ee5a01c5a5f9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Private\GameInstance.cpp">
+      <Filter>소스 파일\Utility\00.GameInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Base.cpp">
+      <Filter>소스 파일\Utility\Super</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Engine_Structs.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\GraphicDevice.cpp">
+      <Filter>소스 파일\System\GraphicDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TimerManager.cpp">
+      <Filter>소스 파일\System\TimeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Timer.cpp">
+      <Filter>소스 파일\System\TimeManager\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PrototypeManager.cpp">
+      <Filter>소스 파일\Utility\00.Managers\02.Prototypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LevelManager.cpp">
+      <Filter>소스 파일\Utility\00.Managers\03.LevelManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level.cpp">
+      <Filter>소스 파일\Utility\01.Level</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Component.cpp">
+      <Filter>소스 파일\Utility\04.Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\GameObject.cpp">
+      <Filter>소스 파일\Utility\03.Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ObjectManager.cpp">
+      <Filter>소스 파일\Utility\01.ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Layer.cpp">
+      <Filter>소스 파일\Utility\01.Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\KeyManager.cpp">
+      <Filter>소스 파일\System\KeyManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\VIBuffer.cpp">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\VIBufferRect.cpp">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexRect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\VIBufferPointRect.cpp">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexPointRect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Shader.cpp">
+      <Filter>소스 파일\Utility\04.Components\04.Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Transform.cpp">
+      <Filter>소스 파일\Utility\04.Components\06.Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Renderer.cpp">
+      <Filter>소스 파일\Utility\05.Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PipeLine.cpp">
+      <Filter>소스 파일\Utility\10.PipeLine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Texture.cpp">
+      <Filter>소스 파일\Utility\04.Components\05.Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ImguiManager.cpp">
+      <Filter>소스 파일\System\ImguiManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EngineSDK\Inc\ImGui\imgui.cpp">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EngineSDK\Inc\ImGui\imgui_demo.cpp">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EngineSDK\Inc\ImGui\imgui_draw.cpp">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EngineSDK\Inc\ImGui\imgui_tables.cpp">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EngineSDK\Inc\ImGui\imgui_widgets.cpp">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\VIBufferLine.cpp">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexLine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UIObject.cpp">
+      <Filter>소스 파일\Utility\03.Objects\WidgetObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UIManager.cpp">
+      <Filter>소스 파일\Utility\03.Objects\UIManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Font.cpp">
+      <Filter>소스 파일\Utility\08.Fonts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FontManager.cpp">
+      <Filter>소스 파일\Utility\08.Fonts\FontManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TextSystem.cpp">
+      <Filter>헤더 파일\TextSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Public\GameInstance.h">
+      <Filter>소스 파일\Utility\00.GameInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Engine_Defines.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Engine_Macros.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Engine_Typedef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Engine_Functions.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Engine_Structs.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Base.h">
+      <Filter>소스 파일\Utility\Super</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\GraphicDevice.h">
+      <Filter>소스 파일\System\GraphicDevice</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TimerManager.h">
+      <Filter>소스 파일\System\TimeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Timer.h">
+      <Filter>소스 파일\System\TimeManager\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Engine_FDs.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PrototypeManager.h">
+      <Filter>소스 파일\Utility\00.Managers\02.Prototypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LevelManager.h">
+      <Filter>소스 파일\Utility\00.Managers\03.LevelManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level.h">
+      <Filter>소스 파일\Utility\01.Level</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Component.h">
+      <Filter>소스 파일\Utility\04.Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\GameObject.h">
+      <Filter>소스 파일\Utility\03.Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ObjectManager.h">
+      <Filter>소스 파일\Utility\01.ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Layer.h">
+      <Filter>소스 파일\Utility\01.Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\KeyManager.h">
+      <Filter>소스 파일\System\KeyManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\VIBuffer.h">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\VIBufferRect.h">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexRect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\VIBufferPointRect.h">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexPointRect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Texture.h">
+      <Filter>소스 파일\Utility\04.Components\05.Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Shader.h">
+      <Filter>소스 파일\Utility\04.Components\04.Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Transform.h">
+      <Filter>소스 파일\Utility\04.Components\06.Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Renderer.h">
+      <Filter>소스 파일\Utility\05.Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PipeLine.h">
+      <Filter>소스 파일\Utility\10.PipeLine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImguiManager.h">
+      <Filter>소스 파일\System\ImguiManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imconfig.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imgui.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imgui_impl_dx11.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imgui_impl_win32.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imgui_internal.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imstb_rectpack.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imstb_textedit.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\EngineSDK\Inc\ImGui\imstb_truetype.h">
+      <Filter>소스 파일\System\ImguiManager\ImguiHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\VIBufferLine.h">
+      <Filter>소스 파일\Utility\04.Components\01.VIBuffer\VIBufferRect\VertexLine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UIManager.h">
+      <Filter>소스 파일\Utility\03.Objects\UIManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UIObject.h">
+      <Filter>소스 파일\Utility\03.Objects\WidgetObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UIRearrangeSystem.h">
+      <Filter>헤더 파일\RearrangeUISystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AbstractFactorySystem.h">
+      <Filter>헤더 파일\AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Font.h">
+      <Filter>소스 파일\Utility\08.Fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FontManager.h">
+      <Filter>소스 파일\Utility\08.Fonts\FontManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TextSystem.h">
+      <Filter>헤더 파일\TextSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\HLSL\HLSL_Defines.hlsli">
+      <Filter>소스 파일\Utility\10.HLSL</Filter>
+    </None>
+  </ItemGroup>
+</Project>
